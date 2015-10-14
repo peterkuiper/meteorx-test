@@ -1,0 +1,31 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+accounts-password
+iron:router
+fourseven:scss
+matb33:collection-hooks
+yasinuslu:blaze-meta
+aldeed:collection2
+aldeed:template-extension
+reactive-var
+seriousm:emoji-continued
+email
+momentjs:moment
+cmather:handlebars-server
+mizzao:user-status
+cfs:standard-packages
+cfs:filesystem
+cfs:autoform
+aldeed:autoform
+yogiben:autoform-file
+wizonesolutions:underscore-string
+socialize:friendships
+socialize:base-model
+fastclick
+meteorhacks:kadira
+kadira:debug
